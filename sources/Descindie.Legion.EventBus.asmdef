@@ -1,0 +1,14 @@
+{
+    "name": "Descindie.Legion.EventBus",
+    "rootNamespace": "Descindie.Legion.EventBus",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

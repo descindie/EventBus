@@ -1,0 +1,17 @@
+{
+  "name": "com.descindie.eventbus",
+  "displayName": "Unity Event Bus Subsystem",
+  "version": "0.5",
+  "unity": "2022.3",
+  "description": "Unity Event Subsystem",
+  "author": {
+    "name": "Descindie",
+    "email": "descindie@gmail.com",
+    "url": "https://github.com/descindie/EventBus"
+  },
+  "documentationUrl": "https://github.com/descindie/EventBus",
+  "type": "library",
+  "license": "MIT",
+  "dependencies": {},
+  "hideInEditor": false
+}
